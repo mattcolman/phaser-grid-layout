@@ -1,0 +1,27 @@
+{
+  "name": "phaser-grid-layout",
+  "version": "1.0.0",
+  "description": "Phaser Grid Layout",
+  "main": "grid_layout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcolman/phaser-grid-layout.git"
+  },
+  "keywords": [
+    "phaser",
+    "grid",
+    "layout"
+  ],
+  "author": "Matt Colman <matt@mattcolman.com> (http://www.mattcolman.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcolman/phaser-grid-layout/issues"
+  },
+  "homepage": "https://github.com/mattcolman/phaser-grid-layout#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
